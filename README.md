@@ -1,8 +1,14 @@
 # Alice Freitas
 > Maria Alice Freitas
->
+<br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div style="display: inline-block;">
-<img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+<img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+  <br>
+<hr>
+<h1>Helloo my friend</h1>
+<p> Sou uma nova estuadante de TI</p>
 
 <!--
 **alicefreit/alicefreit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

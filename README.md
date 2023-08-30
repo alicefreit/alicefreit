@@ -1,4 +1,8 @@
-### Hi there 👋
+# Alice Freitas
+> Maria Alice Freitas
+>
+<div style="display: inline-block;">
+<img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 
 <!--
 **alicefreit/alicefreit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
